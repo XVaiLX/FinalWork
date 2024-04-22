@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 int main() {
-	int a, b, c, d, k1, k2, n;
+	int al, b, c, d, k1, k2, n;
 	printf("Введите 4 числа:");
 	scanf("%i%i%i%i", &a, &b, &c, &d);
 	printf("\nВведите 2 делителя:");
