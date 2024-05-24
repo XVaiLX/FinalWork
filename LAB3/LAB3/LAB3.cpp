@@ -1,6 +1,7 @@
 ﻿#include <stdio.h>
 int main() {
-	int al, b, c, d, k1, k2, n;
+	int al, b, c, d, k1, k2;
+	int n;
 	printf("Введите 4 числа:");
 	scanf("%i%i%i%i", &a, &b, &c, &d);
 	printf("\nВведите 2 делителя:");
@@ -22,4 +23,5 @@ int main() {
 	printf("MAX=%d\n", a > b ? (a > c ? a : c) : (b > c ? b : c));
     printf("%d", n);
 	return 0;
+	//12345
 	}
