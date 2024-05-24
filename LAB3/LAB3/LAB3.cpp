@@ -24,4 +24,5 @@ int main() {
     printf("%d", n);
 	return 0;
 	//12345
+	//изменение 2
 	}
